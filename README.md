@@ -8,7 +8,7 @@
 
 A dependency map of all Shopware 6 entities. It tells you which entities reference which, which of those references are mandatory, and in which order data has to be loaded so every reference already has a target.
 
-**Open `index.html` in a browser.** It is a single self-contained file, no build step and no server needed.
+**Download and Open `index.html` in a browser.** It is a single self-contained file, no build step and no server needed. The rest of the files are for building new plans.
 
 ## What's in the page
 
